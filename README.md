@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dev-bishal1
-- 👀 I’m interested in how Node.js works.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on any project that is interesting (must be in JS).
+- 🌱 I’m currently learning Kubernetes.
 - 📫 How to reach me >> well from linkedin.(https://www.linkedin.com/in/bishal-rayamajhi-02523a243/)
 
 <!---
